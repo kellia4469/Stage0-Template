@@ -17,7 +17,7 @@ System.out.println("It knows this because it knows where it isn't.");
     // Define a variable `pi` that is equal to 3.14159.
     // HINT: Pick the correct data types.
 
-Double pi = 3.14159;
+double pi = 3.14159;
     // Define a variable `g` that is equal to 10.
 int g = 10;
 
